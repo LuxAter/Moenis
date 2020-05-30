@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/arden/programming/Moenis/cmake-build-debug",
+  "command": "/usr/bin/clang++   -I/home/arden/programming/Moenis/include  -g -flto=thin   -Wall -Wextra -Wno-shadow -Wnon-virtual-dtor -Wno-old-style-cast -Wno-cast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wno-implicit-int-conversion -Wno-sign-conversion -Wno-sign-compare -Wnull-dereference -Wno-double-promotion -Wno-implicit-float-conversion -Wno-shorten-64-to-32 -Wno-float-conversion -Wno-unused-parameter -Wno-macro-redefined -Wformat=2 -Werror -std=gnu++17 -Xclang -emit-pch -Xclang -include -Xclang /home/arden/programming/Moenis/cmake-build-debug/CMakeFiles/Moenis.dir/cmake_pch.hxx -o CMakeFiles/Moenis.dir/cmake_pch.hxx.pch -c /home/arden/programming/Moenis/cmake-build-debug/CMakeFiles/Moenis.dir/cmake_pch.hxx.cxx",
+  "file": "/home/arden/programming/Moenis/cmake-build-debug/CMakeFiles/Moenis.dir/cmake_pch.hxx.cxx"
+},
+{
+  "directory": "/home/arden/programming/Moenis/cmake-build-debug",
+  "command": "/usr/bin/clang++   -I/home/arden/programming/Moenis/include  -g -flto=thin   -Wall -Wextra -Wno-shadow -Wnon-virtual-dtor -Wno-old-style-cast -Wno-cast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wno-implicit-int-conversion -Wno-sign-conversion -Wno-sign-compare -Wnull-dereference -Wno-double-promotion -Wno-implicit-float-conversion -Wno-shorten-64-to-32 -Wno-float-conversion -Wno-unused-parameter -Wno-macro-redefined -Wformat=2 -Werror -std=gnu++17 -Xclang -include-pch -Xclang /home/arden/programming/Moenis/cmake-build-debug/CMakeFiles/Moenis.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /home/arden/programming/Moenis/cmake-build-debug/CMakeFiles/Moenis.dir/cmake_pch.hxx -o CMakeFiles/Moenis.dir/src/main.cpp.o -c /home/arden/programming/Moenis/src/main.cpp",
+  "file": "/home/arden/programming/Moenis/src/main.cpp"
+}
+]

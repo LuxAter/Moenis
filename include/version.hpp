@@ -1,0 +1,10 @@
+#ifndef VERSION_HPP_
+#define VERSION_HPP_
+
+#define VERSION_MAJOR       0
+#define VERSION_MINOR       0
+#define VERSION_PATCH       0
+#define VERSION_COMMIT      ebf00f1
+#define VERSION_COMMIT_LONG ebf00f103542590b372900c9454e946e74a20e58
+
+#endif // VERSION_HPP_
